@@ -1,0 +1,5 @@
+deer		4
+bear		4
+lion		4
+tiger		5
+donkey		6

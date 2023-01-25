@@ -1,0 +1,11 @@
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+plt.rc('font', family='Malgun Gothic')
+x=[2017,2018,2019,2020,2021,2022]
+y=[3245,2918,3043,2615,2832,3058]
+plt.xlabel('입시년도',size=14,color='red')
+plt.ylabel('지원자수',size=14,color='red')
+plt.title('5년간 연도별 입학 지원자수',size=18,color='green')
+plt.bar(x,y,color='yellow',edgecolor='blue',linewidth=5)
+plt.show()
