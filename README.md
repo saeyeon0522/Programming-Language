@@ -21,12 +21,7 @@ Learners who are new to programming will easily learn programming writing skills
 
 |Week|Content|Class Practice|Assignment|
 |:---:|:---:|:---:|:---:|
-| 1 | Introduction to the class
-- instruction information
-- Programming Language Features
-- Introduction to Python Programming
-- Shell Mode / Run Script Mode
-- print output function and various output formats | X | [Submitted](https://github.com/saeyeonn/Computer-Language/tree/main/01%20Hello%20World%20_%20Assignment) |
+| 1 | Introduction to the class | X | [Submitted](https://github.com/saeyeonn/Computer-Language/tree/main/1%20Hello%20World%20_%20Assignment) |
 | 2 |	Types | X | X |
 | 3 | Basic operators | [Done](https://github.com/saeyeonn/Computer-Language/tree/main/02%20Basic%20Operator%20_%20Class) | [Submitted](https://github.com/saeyeonn/Computer-Language/tree/main/02%20Basic%20Operator%20_%20Assignment) |
 | 4 |	Conditions & Loop |||
