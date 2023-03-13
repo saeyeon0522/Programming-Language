@@ -23,7 +23,8 @@ Learners who are new to programming will easily learn programming writing skills
 |:---:|:---:|:---:|:---:|
 | 1 | Introduction to the class | X | X |
 | 2 | Building Python Programming | [Uploaded](https://github.com/saeyeonn/Programming-Language/blob/main/Week02/In%20class.py) | X |
-| 3 | Python Data type 1 | [Uploaded](https://github.com/saeyeonn/Programming-Language/blob/main/Week03/In%20class.py) | [Uploaded_1](https://github.com/saeyeonn/Programming-Language/blob/main/Week03/Assignment1.py)  [Uploaded_2](https://github.com/saeyeonnProgramming-Language/blob/main/Week03/Assignment2.py) |
+| 3 | Python Data type 1 | [Uploaded](https://github.com/saeyeonn/Programming-Language/blob/main/Week03/In%20class.py) | [Uploaded_1](https://github.com/saeyeonn/Programming-Language/blob/main/Week03/Assignment1.py) \
+ [Uploaded_2](https://github.com/saeyeonnProgramming-Language/blob/main/Week03/Assignment2.py) |
 | 4 | Python Data type 2 | [Uploaded](https://github.com/saeyeonn/Programming-Language/blob/main/Week04/In%20class.py) | [Uploaded_1](https://github.com/saeyeonn/Programming-Language/blob/main/Week04/Assignment%201.py) [Uploaded_2](https://github.com/saeyeonn/Programming-Language/blob/main/Week04/Assignment%202.py) |
 | 5 | Conditional Statement | [Uploaded](https://github.com/saeyeonn/Programming-Language/blob/main/Week05/In%20class.py) | [Uploaded_1](https://github.com/saeyeonn/Programming-Language/blob/main/Week05/Assignment%201.py) [Uploaded_2](https://github.com/saeyeonn/Programming-Language/blob/main/Week05/Assignment%202.py) |
 | 6 | Loop 1 | [Uploaded](https://github.com/saeyeonn/Programming-Language/blob/main/Week06/In%20class.py) | [Uploaded_1](https://github.com/saeyeonn/Programming-Language/blob/main/Week06/Assignment%201.py) [Uploaded_2](https://github.com/saeyeonn/Programming-Language/blob/main/Week06/Assignment%202.py) |
@@ -35,4 +36,4 @@ Learners who are new to programming will easily learn programming writing skills
 | 12 | Exception & File | X | [Uploaded_1](https://github.com/saeyeonn/Programming-Language/blob/main/Week12/Assignment%201.py) [Uploaded_2](https://github.com/saeyeonn/Programming-Language/blob/main/Week12/Assignment%202.py) |
 | 13 | Class & Module | X | [Uploaded_1](https://github.com/saeyeonn/Programming-Language/blob/main/Week13/Assignment%201.py) [Uploaded_2](https://github.com/saeyeonn/Programming-Language/blob/main/Week13/Assignment%202.py) |
 | 14 | Final Exam | [Uploaded](https://github.com/saeyeonn/Programming-Language/blob/main/Week14/Final%20Exam.py) | X |
-| 15 | Finishing Course || X |
+| 15 | Finishing Course | X | X |
