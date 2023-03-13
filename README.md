@@ -1,11 +1,10 @@
 ### Programming Language - PYTHON
 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/486px-Python_logo_and_wordmark.svg.png" width="200">
-
-
 ***********************************
 
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/486px-Python_logo_and_wordmark.svg.png" width="400">
 
 This course understands the characteristics of various programming languages, solves problems through algorithms with principles of program behavior, and promotes programming writing skills. In particular, in this course, Python language will help you understand the basic principles of programming and have the ability to solve problems with computing thinking. Python's basic grammar improves practical implementation skills by learning data types, conditions, iterations, arrangements, functions, and I/O, and learning programming techniques for solving various problems. 
 
