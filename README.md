@@ -21,18 +21,18 @@ Learners who are new to programming will easily learn programming writing skills
 
 |Week|Content|Class Practice|Assignment|
 |:---:|:---:|:---:|:---:|
-| 1 | Introduction to the class | X | [Submitted](https://github.com/saeyeonn/Computer-Language/tree/main/1%20Hello%20World%20_%20Assignment) |
-| 2 |	Types | X | X |
-| 3 | Basic operators | [Done](https://github.com/saeyeonn/Computer-Language/tree/main/02%20Basic%20Operator%20_%20Class) | [Submitted](https://github.com/saeyeonn/Computer-Language/tree/main/02%20Basic%20Operator%20_%20Assignment) |
-| 4 |	Conditions & Loop |||
-| 5 |	Reference type |||
-| 6 |	OOP: Class |||
-| 7 |	OOP: Method |||
-| 8 |	OOP: Inheritance |||
-| 9 | Midterm Exam | X | X |
-| 10 | OOP: Interface |||
-| 11 | Java Packages |||
-| 12 | Generic |||
-| 13 | Collections |||
-| 14 | IO |||
-| 15 | Final Exam | X | X |
+| 1 | Introduction to the class | X | X |
+| 2 | Building Python Programming | [Uploaded] | X |
+| 3 | Python Data type 1 | [Uploaded] | [Uploaded_1]  [Uploaded_2] |
+| 4 | Python Data type 2 | [Uploaded] | [Uploaded_1] [Uploaded_2] |
+| 5 | Conditional Statement | [Uploaded] | [Uploaded_1] [Uploaded_2] |
+| 6 | Loop 1 | [Uploaded] | [Uploaded_1] [Uploaded_2] |
+| 7 | Loop 2 | [Uploaded] | [Uploaded_1] [Uploaded_2] |
+| 8 | Midterm Exam | X | [Uploaded] |
+| 9 | Python Data type 1 | [Uploaded] | [Uploaded_1] [Uploaded_2] |
+| 10 | Python Data type 2 | [Uploaded] | [Uploaded_1] [Uploaded_2] |
+| 11 | Python Function | X | X |
+| 12 | Exception & File || [Uploaded_1] [Uploaded_2] |
+| 13 | Class & Module || [Uploaded_1] [Uploaded_2] |
+| 14 | Final Exam | X | X |
+| 15 | Finishing Course | X | X |
