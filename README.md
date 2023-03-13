@@ -23,7 +23,6 @@ Learners who are new to programming will easily learn programming writing skills
 |:---:|:---:|:---:|:---:|
 | 1 | Introduction to the class | X | X |
 | 2 | Building Python Programming | [Uploaded](https://github.com/saeyeonn/Programming-Language/blob/main/Week02/In%20class.py) | X |
-
 | 3 | Python Data type 1 | [Uploaded](https://github.com/saeyeonn/
 Programming-Language/blob/main/Week03/In%20class.py) | [Uploaded_1](https://github.com/saeyeonn/Programming-Language/blob/main/Week03/Assignment1.py)  [Uploaded_2](https://github.com/saeyeonn/Programming-Language/blob/main/Week03/Assignment2.py) |
 | 4 | Python Data type 2 | [Uploaded](https://github.com/saeyeonn/Programming-Language/blob/main/Week04/In%20class.py) | [Uploaded_1](https://github.com/saeyeonn/Programming-Language/blob/main/Week04/Assignment%201.py) [Uploaded_2](https://github.com/saeyeonn/Programming-Language/blob/main/Week04/Assignment%202.py) |
